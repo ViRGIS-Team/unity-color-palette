@@ -1,0 +1,21 @@
+{
+  "name": "com.runette.unity-color-palette",
+  "version": "1.0.0",
+  "displayName": "Unity Color Palette UI Widget",
+  "description": "A Color Selector Widget for Unity UI",
+  "unity": "2018.1",
+  "keywords": [
+    "UI",
+    "Color",
+    "Selector"
+  ],
+  "author": {
+    "name": "Runette Software Ltd",
+    "email": "info@runette.co.uk",
+    "url": "https://www.runette.co.uk"
+  },
+  "hideInEditor": false,
+  "dependencies": {
+    "com.mpewsey.hexagonal-ui": "1.3.0"
+  }
+}

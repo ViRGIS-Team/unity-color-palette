@@ -1,0 +1,16 @@
+{
+    "name": "runette",
+    "rootNamespace": "",
+    "references": [
+        "MPewsey.HexagonalUI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
